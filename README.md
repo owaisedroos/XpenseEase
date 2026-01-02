@@ -65,7 +65,7 @@ This ensures scalability, testability, and clean separation of concerns.
 ---
 
 <details>
-<summary><strong>🏠 Home & Dashboard</strong></summary>
+<summary><strong> Home & Dashboard</strong></summary>
 
 <br>
 
@@ -79,7 +79,7 @@ This ensures scalability, testability, and clean separation of concerns.
 ---
 
 <details>
-<summary><strong>➕ Add Expense</strong></summary>
+<summary><strong> Add Expense</strong></summary>
 
 <br>
 
@@ -93,7 +93,7 @@ This ensures scalability, testability, and clean separation of concerns.
 ---
 
 <details>
-<summary><strong>📊 Expense Visualization (Pie Chart)</strong></summary>
+<summary><strong> Expense Visualization (Pie Chart)</strong></summary>
 
 <br>
 
@@ -107,7 +107,7 @@ This ensures scalability, testability, and clean separation of concerns.
 ---
 
 <details>
-<summary><strong>📈 Statistics & Top Spending</strong></summary>
+<summary><strong> Statistics & Top Spending</strong></summary>
 
 <br>
 
@@ -121,7 +121,7 @@ This ensures scalability, testability, and clean separation of concerns.
 ---
 
 <details>
-<summary><strong>🤝 Splitwise (Shared Expenses)</strong></summary>
+<summary><strong> Splitwise (Shared Expenses)</strong></summary>
 
 <br>
 
@@ -135,7 +135,7 @@ This ensures scalability, testability, and clean separation of concerns.
 ---
 
 <details>
-<summary><strong>📅 Event Management</strong></summary>
+<summary><strong> Event Management</strong></summary>
 
 <br>
 
