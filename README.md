@@ -60,8 +60,8 @@ This ensures scalability, testability, and clean separation of concerns.
 
 ##  Screenshots
 **| Home | Add Expense | Statistics | SplitWise | Data Visualization | Event Management |**
-|-----|------------|------------|
-| ![Home](screenshots/home.jpeg) | ![Add Expense](screenshots/addexpense.jpeg) | ![Stats](screenshots/stats.jpeg) | ![Splitwise](screenshots/splitwise.jpeg) | ![PieChart](screenshots/pie.jpeg) | ![Event](screenshots/event.jpeg) |
+|------- |-------------|------------|-----------|--------------------|------------------|
+|![Home](screenshots/home.jpeg)|![Add Expense](screenshots/addexpense.jpeg)|![Stats](screenshots/stats.jpeg)|![Splitwise](screenshots/splitwise.jpeg)|![PieChart](screenshots/pie.jpeg)|![Event](screenshots/event.jpeg)|
 
 ---
 
