@@ -59,9 +59,92 @@ This ensures scalability, testability, and clean separation of concerns.
 ---
 
 ##  Screenshots
-**| Home | Add Expense | Statistics | SplitWise | Data Visualization | Event Management |**
-|------- |-------------|------------|-----------|--------------------|------------------|
-|![Home](screenshots/home.jpeg)|![Add Expense](screenshots/addexpense.jpeg)|![Stats](screenshots/stats.jpeg)|![Splitwise](screenshots/splitwise.jpeg)|![PieChart](screenshots/pie.jpeg)|![Event](screenshots/event.jpeg)|
+
+> Click on any section below to view screenshots.
+
+---
+
+<details>
+<summary><strong>🏠 Home & Dashboard</strong></summary>
+
+<br>
+
+| Home Dashboard |
+|---------------|
+| <img src="screenshots/home.jpeg" width="300"/> |
+| **Home Screen** – Displays total balance, income, expenses, and recent transactions |
+
+</details>
+
+---
+
+<details>
+<summary><strong>➕ Add Expense</strong></summary>
+
+<br>
+
+| Add Expense Screen |
+|-------------------|
+| <img src="screenshots/addexpense.jpeg" width="300"/> |
+| **Add Expense** – Add category, amount, and date using a clean input form |
+
+</details>
+
+---
+
+<details>
+<summary><strong>📊 Expense Visualization (Pie Chart)</strong></summary>
+
+<br>
+
+| Expense Distribution |
+|----------------------|
+| <img src="screenshots/pie.jpeg" width="300"/> |
+| **Expense Visualization** – Category-wise expense breakdown using a donut chart |
+
+</details>
+
+---
+
+<details>
+<summary><strong>📈 Statistics & Top Spending</strong></summary>
+
+<br>
+
+| Statistics & Trends |
+|---------------------|
+| <img src="screenshots/stats.jpeg" width="300"/> |
+| **Statistics Screen** – Expense trends over time with top spending categories |
+
+</details>
+
+---
+
+<details>
+<summary><strong>🤝 Splitwise (Shared Expenses)</strong></summary>
+
+<br>
+
+| Shared Expenses |
+|----------------|
+| <img src="screenshots/splitwise.jpeg" width="300"/> |
+| **Splitwise Feature** – Track shared expenses and calculate per-person splits |
+
+</details>
+
+---
+
+<details>
+<summary><strong>📅 Event Management</strong></summary>
+
+<br>
+
+| Event Expenses |
+|---------------|
+| <img src="screenshots/event.jpeg" width="300"/> |
+| **Event Manager** – Track event-wise expenses with status and breakdown |
+
+</details>
 
 ---
 
