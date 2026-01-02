@@ -1,41 +1,77 @@
-# XpenseEase
+# XpenseEase 💸  
+![Kotlin](https://img.shields.io/badge/Kotlin-1.9-blueviolet)
+![Android](https://img.shields.io/badge/Android-App-green)
+![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-UI-blue)
+![MVVM](https://img.shields.io/badge/Architecture-MVVM-orange)
+![Room](https://img.shields.io/badge/Database-Room-red)
 
-Welcome to the Expense Tracker Android app! This project is designed to help users keep track of their daily expenses with ease. The app allows users to add, view, and analyze their expenses using intuitive stats and charts. It is developed using modern Android development practices, including Jetpack Compose, Room Database, Dagger Hilt for dependency injection, and the MVVM architecture.
+A Modern Android Expense Tracker Application
 
-## Features
+XpenseEase is a feature-rich Android expense tracking application designed to simplify personal finance management. It enables users to record daily expenses, categorize transactions, visualize spending patterns, and manage shared expenses through a clean and intuitive interface.
 
-- **Add Expense:** Easily add your daily expenses with a few taps.
-- **Track Expenses:** View a list of all your expenses, organized by date and category.
-- **Analyze with Stats:** Get insights into your spending habits with detailed stats and charts.
-  
-## Technologies Used
+Built using modern Android development practices, XpenseEase focuses on usability, performance, and maintainability.
 
-- **Jetpack Compose:** A modern toolkit for building native Android UI.
-- **Room Database:** A robust database layer on top of SQLite for managing local data.
-- **Dagger Hilt:** A dependency injection library for Android that reduces the boilerplate of manual dependency injection.
-- **MVVM Architecture:** Model-View-ViewModel architecture for separating the UI, business logic, and data handling in the app.
+---
+
+## 🎯 Problem Statement
+Managing personal finances is challenging due to:
+- Lack of a systematic way to track expenses and income
+- Difficulty analyzing spending patterns
+- Manual and error-prone tracking methods
+- Complex and cluttered existing expense tracker apps
+- Existing System do not have categories catering to Students
+
+XpenseEase addresses these issues by providing a simple, visual, and user-friendly solution for everyday expense management.
+
+---
+
+## ✨ Features
+- Expense & Income Tracking  
+- Expense Categorization  
+- Interactive Pie Chart Visualizations  
+- Expense Summary Dashboard  
+- Split Expense Management (Splitwise-style)
+- Event Management Tab
+- Secure User Authentication (PIN / Password)  
+- Data Export & Backup  
+- Clean and Intuitive UI  
+
+---
+
+## 🛠️ Tech Stack
+- **Language:** Kotlin  
+- **UI:** Jetpack Compose  
+- **Architecture:** MVVM  
+- **Database:** Room (SQLite)  
+- **Dependency Injection:** Dagger Hilt  
+- **IDE:** Android Studio Hedgehog  
+
+---
+
+## 🧱 Architecture
+The application follows the **MVVM (Model–View–ViewModel)** architecture:
+- **UI Layer:** Jetpack Compose screens  
+- **ViewModel Layer:** Business logic & state management  
+- **Data Layer:** Room database & repositories  
+
+This ensures scalability, testability, and clean separation of concerns.
+
+---
+
+## 📱 Screenshots
+| Home | Add Expense | Statistics |
+|-----|------------|------------|
+| ![Home](screenshots/home.png) | ![Add Expense](screenshots/add_expense.png) | ![Stats](screenshots/stats.png) |
+
+---
 
 
-## Screenshots
+## 🔮 Future Enhancements
+- Firebase cloud sync  
+- AI-based expense insights  
+- Bill reminders & notifications  
+- Smart budget recommendations  
 
-Here are some screenshots of the Expense Tracker app in action:
-
-| Home Screen | Add Expense | Stats |
-|-------------|-------------|-------------|
-| ![Home Screen](screenshots/Screenshot_1724273822.png) | ![Add Expense](screenshots/Screenshot_1724273829.png) | ![Stats](screenshots/Screenshot_1724273956.png) |
-
-
-- **Adding an Expense:**
-  - Tap on the "Add Expense" button.
-  - Enter the amount, select a category, and add any notes if necessary.
-  - Save the expense to track it.
-
-- **Viewing Expenses:**
-  - Navigate to the "Expense List" screen to view all your recorded expenses.
-  - Tap on any expense to edit or delete it.
-
-- **Tracking with Stats:**
-  - Go to the "Stats" section to view charts and summaries of your spending habits over time.
+---
 
 
- 
