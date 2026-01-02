@@ -37,8 +37,5 @@ Here are some screenshots of the Expense Tracker app in action:
 - **Tracking with Stats:**
   - Go to the "Stats" section to view charts and summaries of your spending habits over time.
 
----
 
-**YouTube Channel:** [CodeWithFK](https://www.youtube.com/@codewithfk)
-# XpenseEase
  
