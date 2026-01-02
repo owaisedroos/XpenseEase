@@ -13,7 +13,7 @@ Built using modern Android development practices, XpenseEase focuses on usabilit
 
 ---
 
-## 🎯 Problem Statement
+##  Problem Statement
 Managing personal finances is challenging due to:
 - Lack of a systematic way to track expenses and income
 - Difficulty analyzing spending patterns
@@ -25,7 +25,7 @@ XpenseEase addresses these issues by providing a simple, visual, and user-friend
 
 ---
 
-## ✨ Features
+##  Features
 - Expense & Income Tracking  
 - Expense Categorization  
 - Interactive Pie Chart Visualizations  
@@ -38,7 +38,7 @@ XpenseEase addresses these issues by providing a simple, visual, and user-friend
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 - **Language:** Kotlin  
 - **UI:** Jetpack Compose  
 - **Architecture:** MVVM  
@@ -48,7 +48,7 @@ XpenseEase addresses these issues by providing a simple, visual, and user-friend
 
 ---
 
-## 🧱 Architecture
+##  Architecture
 The application follows the **MVVM (Model–View–ViewModel)** architecture:
 - **UI Layer:** Jetpack Compose screens  
 - **ViewModel Layer:** Business logic & state management  
@@ -58,7 +58,7 @@ This ensures scalability, testability, and clean separation of concerns.
 
 ---
 
-## 📱 Screenshots
+##  Screenshots
 | Home | Add Expense | Statistics |
 |-----|------------|------------|
 | ![Home](screenshots/home.png) | ![Add Expense](screenshots/add_expense.png) | ![Stats](screenshots/stats.png) |
@@ -66,7 +66,7 @@ This ensures scalability, testability, and clean separation of concerns.
 ---
 
 
-## 🔮 Future Enhancements
+##  Future Enhancements
 - Firebase cloud sync  
 - AI-based expense insights  
 - Bill reminders & notifications  
